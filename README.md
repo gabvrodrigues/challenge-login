@@ -13,7 +13,6 @@ This project aims to create a login application for user authentication.
 - [Styled Components](https://styled-components.com/) - Stled Components allows the use of component-level styles in your application.
 - [Redux](https://redux.js.org/) - Redux is a library for storing application states.
 - [Redux Saga](https://redux-saga.js.org/) - Redux Saga is a library that aims to make application side effects easier to manage, to test and more efficient to execute.
-- 
 <!-- GETTING STARTED -->
 
 ## GETTING STARTED
