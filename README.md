@@ -4,6 +4,10 @@
 
 This project aims to create a login application for user authentication.
 
+![alt text](https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/phone.png)
+![alt text](https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/tablet.png)
+![alt text](https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/tablet-errors.png)
+
 ### Made with
 
 - [React Native](http://facebook.github.io/react-native/) - React Native is a framework that allows the development of mobile applications using JavaScript and React;
