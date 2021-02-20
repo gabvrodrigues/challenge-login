@@ -4,9 +4,9 @@
 
 This project aims to create a login application for user authentication.
 
-![alt text](https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/tablet.png)
-![alt text](https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/tablet-errors.png)
-![alt text](https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/phone.png)
+<img src="https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/phone.png">
+<img src="https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/tablet.png" width="500">
+<img src="https://github.com/gabvrodrigues/challenge-login/blob/main/screenshots/tablet-errors.png" width="500">
 
 ### Made with
 
