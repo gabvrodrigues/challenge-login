@@ -23,7 +23,7 @@ To be able to use the template, either through the React Native CLI or with a lo
 
 Before proceeding to the settings and execute the app, it is ideal that you have the environment configured to create and test applications in React Native, for this you can follow the guide of the link below:
 
-[React Native Enviroment (Android/iOS)](https://github.com/Rocketseat/ambiente-react-native)
+[React Native Enviroment (Android/iOS)](http://react-native.rocketseat.dev/)
 
 ## Installation
 
