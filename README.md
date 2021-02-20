@@ -8,11 +8,11 @@ This project aims to create a login application for user authentication.
 
 - [React Native](http://facebook.github.io/react-native/) - React Native is a framework that allows the development of mobile applications using JavaScript and React;
 - [Axios](https://github.com/axios/axios) - Axios is an HTTP client based on Promises;
-- [Typescript] (https://www.typescriptlang.org/) - TypeScript is a superset of JavaScript that adds typing and some other features to the language.
-- [React Hooks] (https://reactjs.org/docs/hooks-intro.html) - Hooks basically aims to offer ways to work with state and other API's without the need to have a class.
-- [Styled Components] (https://styled-components.com/) - Stled Components allows the use of component-level styles in your application.
-- [Redux] (https://redux.js.org/) - Redux is a library for storing application states.
-- [Redux Saga] (https://redux-saga.js.org/) - Redux Saga is a library that aims to make application side effects easier to manage, to test and more efficient to execute.
+- [Typescript](https://www.typescriptlang.org/) - TypeScript is a superset of JavaScript that adds typing and some other features to the language.
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html) - Hooks basically aims to offer ways to work with state and other API's without the need to have a class.
+- [Styled Components](https://styled-components.com/) - Stled Components allows the use of component-level styles in your application.
+- [Redux](https://redux.js.org/) - Redux is a library for storing application states.
+- [Redux Saga](https://redux-saga.js.org/) - Redux Saga is a library that aims to make application side effects easier to manage, to test and more efficient to execute.
 - 
 <!-- GETTING STARTED -->
 
