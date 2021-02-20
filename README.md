@@ -21,7 +21,7 @@ This project aims to create a login application for user authentication.
 
 ## GETTING STARTED
 
-To be able to use the template, either through the React Native CLI or with a local copy of the files, follow the steps below.
+To be able to execute the project, either through the React Native CLI or with a local copy of the files, follow the steps below.
 
 ### Prerequisites
 
